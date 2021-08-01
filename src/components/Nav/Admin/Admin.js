@@ -92,8 +92,8 @@ function Admin({
             checkRadioValue(radio);
             modalClose();
             alert('로그인에 성공했습니다');
+            return goToMasterPage()
           })
-          .then(() => goToMasterPage())
           .catch(err => console.log(`arr`, err));
     }
   };
