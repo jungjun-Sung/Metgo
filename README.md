@@ -29,7 +29,7 @@ metGo **프로젝트 Front-end / Back-end 소개**
 
 ### **적용 기술**
 
-> Front-End : React.js, styled-components, Kakao Login Api
+> Front-End : React.js, styled-components 
 
 > Back-End : Python, Django web framework,  PyJWT, Bcrypt, My SQL, AqueryTool, AWS(EC2, RDS, S3), Docker, Kakao Login Api
 
